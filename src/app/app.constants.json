@@ -1,10 +1,10 @@
 {
-  "appname": "Angular Seller",
-  "clientid": "XXXXXXXX-XXXX-XXXX-XXXXXXXXXXXX",
+  "appname": "Sansaire Admin",
+  "clientid": "B4503461-89F1-4256-8EE8-E2897A4967F3",
   "environment": "prod",
   "defaultstate": "home",
   "html5mode": true,
-  "bootswatchtheme": null,
+  "bootswatchtheme": "lumen",
   "scope": [
     "FullAccess",
     "AddressAdmin", 
