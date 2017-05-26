@@ -4,7 +4,7 @@
   "environment": "prod",
   "defaultstate": "home",
   "html5mode": true,
-  "bootswatchtheme": "lumen",
+  "bootswatchtheme": null,
   "scope": [
     "FullAccess",
     "AddressAdmin", 
